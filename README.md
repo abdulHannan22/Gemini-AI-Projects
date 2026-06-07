@@ -11,7 +11,7 @@ Projects
 - `2-vision.py` — Vision demo demonstrating image processing and visual prompts.
 - `3-qachat.py` — Conversational question-answering demo.
 - `4-multilang.py` — Multilingual prompt/response demo.
-- `5-multipdf.py` — Streamlit app: upload multiple PDFs, embed content, and run
+- `5-multipdf.py` — upload multiple PDFs, embed content, and run
 	similarity-search + QA.
 
 Prerequisites
@@ -51,25 +51,25 @@ Running the demos
 - Chat demo:
 
 ```powershell
-python 1-chat.py
+streamlit 1-chat.py
 ```
 
 - Vision demo:
 
 ```powershell
-python 2-vision.py
+streamlit 2-vision.py
 ```
 
 - QA Chat demo:
 
 ```powershell
-python 3-qachat.py
+streamlit 3-qachat.py
 ```
 
 - Multilingual demo:
 
 ```powershell
-python 4-multilang.py
+streamlit 4-multilang.py
 ```
 
 - Multiple-PDF Q&A (Streamlit):
